@@ -9,4 +9,4 @@ class "seki" < Formula
     app "seki.app"
     depends_on macos: ">= :sierra"
     auto_updates true
-  end
+end
