@@ -1,4 +1,6 @@
-class "seki" do
+require "formula"
+
+class "seki" < Formula
     version "0.3.0"
     url "https://github.com/Cencosud-X/Seki-Releases/releases/download/v#{version}/seki-#{version}.dmg"
     name "seki"
